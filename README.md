@@ -2,7 +2,7 @@
 
 Supplementary materials to  
 
-Trowitzsch et al (2019), _"Joining Sound Event Detection and Localization Through Spatial Segregation"_, in prep., IEEE Transactions on Audio, Speech, Language Processing.
+Trowitzsch, Ivo, et al (2019), _"Joining Sound Event Detection and Localization Through Spatial Segregation"_, in prep., IEEE Transactions on Audio, Speech, Language Processing.
 
 - Models
   - Fullstream sound event detection models
@@ -42,7 +42,7 @@ This will be accomplished by executing the following command:
 
 Training and testing is performed on the sounds of the NIGENS database. Please download it from  
 
-Ivo Trowitzsch, Jalil Taghia, Youssef Kashef, and Klaus Obermayer (2019). *The NIGENS general sound events database*. Technical Report, Arxiv. http://arxiv.doi
+NIGENS Zenodo
 
 
 ## Training models
@@ -153,8 +153,12 @@ After the first run of `eval_mc7_gt` on your data, the "true" parameter can be l
 
 ## Credits
 
-If you use any contained material for your own work, please acknowledge our work by citing above paper. Furthermore, if you change the code and use subsequent results, please additionally cite  
+If you use any contained material for your own work, please acknowledge our work by citing as  
 
-AMLTTP
+Trowitzsch, Ivo, et al (2019), _"Joining Sound Event Detection and Localization Through Spatial Segregation"_, in prep., IEEE Transactions on Audio, Speech, Language Processing.
+
+Furthermore, if you change the code and use subsequent results, please additionally cite  
+
+Trowitzsch, Ivo, et al (2019). Auditory Machine Learning Training and Testing Pipeline: AMLTTP v3.0. Zenodo. http://doi.org/10.5281/zenodo.2575086
 
 Thank you.
