@@ -42,8 +42,7 @@ This will be accomplished by executing the following command:
 
 Training and testing is performed on the sounds of the NIGENS database. Please download it from  
 
-NIGENS Zenodo
-
+Trowitzsch, Ivo, et al (2019), "_NIGENS general sound events database_", Zenodo. http://doi.org/10.5281/zenodo.2535878
 
 ## Training models
 
@@ -151,14 +150,18 @@ To run evaluation on test data produced by you (be it from our or your trained m
 After the first run of `eval_mc7_gt` on your data, the "true" parameter can be left away.
 
 
+## License
+
+The contained materials are published under the GNU GENERAL PUBLIC LICENSE, Version 3.
+
 ## Credits
 
 If you use any contained material for your own work, please acknowledge our work by citing as  
 
-Trowitzsch, Ivo, et al (2019), _"Joining Sound Event Detection and Localization Through Spatial Segregation"_, in prep., IEEE Transactions on Audio, Speech, Language Processing.
+Trowitzsch, Ivo, et al (2019), "_Joining Sound Event Detection and Localization Through Spatial Segregation_", in prep., IEEE Transactions on Audio, Speech, Language Processing.
 
 Furthermore, if you change the code and use subsequent results, please additionally cite  
 
-Trowitzsch, Ivo, et al (2019). Auditory Machine Learning Training and Testing Pipeline: AMLTTP v3.0. Zenodo. http://doi.org/10.5281/zenodo.2575086
+Trowitzsch, Ivo, et al (2019). "_Auditory Machine Learning Training and Testing Pipeline: AMLTTP v3.0_". Zenodo. http://doi.org/10.5281/zenodo.2575086
 
 Thank you.
