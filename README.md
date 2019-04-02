@@ -2,7 +2,7 @@
 
 Supplementary materials to  
 
-Trowitzsch, Ivo, et al (2019), _"Joining Sound Event Detection and Localization Through Spatial Segregation"_, in prep., IEEE Transactions on Audio, Speech, Language Processing.
+Trowitzsch, I., Schymura, C., Kolossa, D., Obermayer, K. (2019), "_Joining Sound Event Detection and Localization Through Spatial Segregation_", submitted, IEEE Transactions on Audio, Speech, Language Processing, https://arxiv.org/abs/1904.00055.
 
 - Models
   - Fullstream sound event detection models
@@ -158,7 +158,7 @@ The contained materials are published under the GNU GENERAL PUBLIC LICENSE, Vers
 
 If you use any contained material for your own work, please acknowledge our work by citing as  
 
-Trowitzsch, Ivo, et al (2019), "_Joining Sound Event Detection and Localization Through Spatial Segregation_", in prep., IEEE Transactions on Audio, Speech, Language Processing.
+Trowitzsch, I., Schymura, C., Kolossa, D., Obermayer, K. (2019), "_Joining Sound Event Detection and Localization Through Spatial Segregation_", submitted, IEEE Transactions on Audio, Speech, Language Processing, https://arxiv.org/abs/1904.00055.
 
 Furthermore, if you change the code and use subsequent results, please additionally cite  
 
